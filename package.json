@@ -1,0 +1,21 @@
+{
+  "name": "info3180-vuejs-flask-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vuepic/vue-datepicker": "^7.2.2",
+    "mitt": "^3.0.1",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6",
+    "vue3-date-time-picker": "^2.8.3",
+    "vue3-datepicker": "^0.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.4"
+  }
+}
